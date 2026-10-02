@@ -6,7 +6,7 @@
      alt="Two pixel cats coding"
      src="./gatos-programando.png" />
 
-### ✨ About Me!
+### About Me!
 
 - 🎓 I'm a Systems Engineering student,
   starting my journey in technology.
@@ -16,7 +16,7 @@
 - 💡 I enjoy learning and solving problems.
 - 🚀 My goal is to grow as a developer.
 
-### 🛠️ Tech I'm exploring
+### Tech I'm exploring
 
 - Python
 - GitHub
