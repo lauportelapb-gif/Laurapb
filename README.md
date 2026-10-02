@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm Laura Sofía!</h2>
+<h2>Hey 👋, I'm Lauuu!</h2>
 <h3>💻 Systems Engineering Student</h3>
 
 <img align="right"
