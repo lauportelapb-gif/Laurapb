@@ -1,141 +1,142 @@
 
 <div align="center">
 
-<img src="reactor_jarvis.gif" width="220" alt="Laura Lab Reactor">
+<img src="reactor_jarvis.gif" width="380" alt="Laura Lab Reactor Core" />
+
+<br/>
 
 # LAURA LAB
-### `17 IN PROGRESS...`
+
+### `17 // IN PROGRESS...`
 
 **SYSTEMS ENGINEERING · DEVELOPER · CREATOR**
 
 *Convirtiendo ideas en tecnología, mientras aprendo, desarrollo y evoluciono.*
 
-![Status](https://img.shields.io/badge/SYSTEM-ONLINE-ff4da6?style=for-the-badge&logoColor=white)
-![Focus](https://img.shields.io/badge/FOCUS-BUILDING-000000?style=for-the-badge&color=ff1493)
-![Learning](https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-ff69b4?style=for-the-badge)
+![System](https://img.shields.io/badge/SYSTEM-ONLINE-FF79C6?style=for-the-badge&logoColor=white)
+![Focus](https://img.shields.io/badge/FOCUS-BUILDING-65D8FF?style=for-the-badge&logoColor=black)
+![Status](https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-FF79C6?style=for-the-badge)
 
 </div>
 
 ---
 
-## `01 // ABOUT ME`
+## <span style="color:#FF79C6">01 // ABOUT ME</span>
 
-```text
-> Estudiante de Ingeniería de Sistemas
-> Explorando el universo del desarrollo de software
-> Aprendiendo a construir, no solo a imaginar
-> Transformando ideas en proyectos reales
-```
+Estudiante de Ingeniería de Sistemas, explorando el mundo del desarrollo de software, la programación, la automatización y la inteligencia artificial.
 
-Me gusta la tecnología, la automatización, la inteligencia artificial y crear herramientas que realmente puedan ser útiles.
+Me gusta aprender creando, experimentar con nuevas ideas y convertir problemas en soluciones tecnológicas.
 
-Actualmente estoy aprendiendo, experimentando y construyendo mi propio ecosistema de proyectos.
+> **Learning by building.**
 
 ---
 
-## `02 // TECH STACK`
+## <span style="color:#65D8FF">02 // TECH STACK</span>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff69b4)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff69b4)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff69b4)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=ff69b4)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=ff69b4)
+![Python](https://img.shields.io/badge/Python-FF79C6?style=for-the-badge&logo=python&logoColor=black)
+![Git](https://img.shields.io/badge/Git-65D8FF?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-111116?style=for-the-badge&logo=github&logoColor=FF79C6)
+![VS Code](https://img.shields.io/badge/VS_Code-FF79C6?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 
 </div>
 
 ---
 
-## `03 // MAIN PROJECT`
+## <span style="color:#FF79C6">03 // MAIN PROJECT</span>
 
 <div align="center">
 
-# ◈ J.A.R.V.I.S.
+# J.A.R.V.I.S.
 
-### Just A Rather Very Intelligent System
+### `JUST A RATHER VERY INTELLIGENT SYSTEM`
 
-![JARVIS](https://img.shields.io/badge/JARVIS-IN_DEVELOPMENT-ff1493?style=for-the-badge)
+![JARVIS](https://img.shields.io/badge/JARVIS-IN_DEVELOPMENT-FF79C6?style=for-the-badge)
 
 </div>
 
 Mi proyecto principal: construir mi propio asistente inteligente.
 
-JARVIS nace como un proyecto de exploración en inteligencia artificial, automatización e interacción con el computador, buscando desarrollar poco a poco un asistente personal capaz de integrar diferentes funcionalidades.
+JARVIS es un proyecto personal enfocado en explorar inteligencia artificial, automatización e interacción con el computador, desarrollando progresivamente un asistente capaz de integrar diferentes funcionalidades.
 
-**Objetivos del proyecto:**
+**Current objectives:**
 
 - [x] Crear la base del proyecto
-- [x] Configurar entorno de desarrollo
+- [x] Configurar el entorno de desarrollo
 - [x] Integrar Python
-- [ ] Implementar interacción inteligente
-- [ ] Incorporar módulos de automatización
-- [ ] Mejorar la interacción por voz
-- [ ] Expandir sus funcionalidades
+- [ ] Implementar funcionalidades inteligentes
+- [ ] Incorporar automatización
+- [ ] Explorar interacción por voz
+- [ ] Expandir sus capacidades
 
 > `JARVIS is not finished. Neither am I.`
 
-![Progress](https://img.shields.io/badge/PROJECT_PROGRESS-IN_PROGRESS-ff69b4?style=for-the-badge)
+![Project](https://img.shields.io/badge/PROJECT-IN_PROGRESS-65D8FF?style=for-the-badge)
 
 ---
 
-## `04 // OTHER PROJECTS`
+## <span style="color:#65D8FF">04 // OTHER PROJECTS</span>
 
-| Proyecto | Descripción | Estado |
+| PROJECT | DESCRIPTION | STATUS |
 |---|---|---|
-| **JARVIS** | Asistente personal inteligente | `IN PROGRESS` |
-| **TaveraTranslator** | Traductor de escritorio | `DEVELOPMENT` |
-| **FinanceERP** | Exploración de gestión financiera empresarial | `PLANNING` |
-| **Python Lab** | Ejercicios, lógica y experimentos | `ACTIVE` |
+| **JARVIS** | Personal AI assistant | `IN PROGRESS` |
+| **TaveraTranslator** | Desktop translation application | `DEVELOPMENT` |
+| **FinanceERP** | Financial management system concept | `PLANNING` |
+| **Python Lab** | Programming exercises & experiments | `ACTIVE` |
 
 ---
 
-## `05 // CURRENT MISSIONS`
+## <span style="color:#FF79C6">05 // CURRENT MISSIONS</span>
 
-- [x] Comenzar mi camino en Ingeniería de Sistemas
-- [x] Aprender Python
-- [x] Crear mis primeros proyectos
-- [ ] Fortalecer lógica de programación
-- [ ] Explorar Inteligencia Artificial
-- [ ] Crear soluciones automatizadas
-- [ ] Construir proyectos cada vez más complejos
+- [x] Start my Systems Engineering journey
+- [x] Learn Python fundamentals
+- [x] Create my first projects
+- [ ] Improve programming logic
+- [ ] Explore Artificial Intelligence
+- [ ] Develop automated solutions
+- [ ] Build more complex projects
 
 ---
 
-## `06 // GITHUB ACTIVITY`
+## <span style="color:#65D8FF">06 // GITHUB ACTIVITY</span>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laurapb&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laurapb&show_icons=true&title_color=FF79C6&icon_color=65D8FF&text_color=FFFFFF&bg_color=0D1117&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laurapb&layout=compact&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=0d1117&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laurapb&layout=compact&title_color=FF79C6&text_color=FFFFFF&bg_color=0D1117&hide_border=true)
 
 </div>
 
 ---
 
-## `07 // SYSTEM LOG`
+## <span style="color:#FF79C6">07 // SYSTEM LOG</span>
 
 ```text
-[BOOT] Starting Laura Lab...
-[LOAD] Loading curiosity........ OK
-[LOAD] Loading creativity....... OK
-[LOAD] Loading determination.... OK
+> Initializing Laura Lab...
+> Loading curiosity........ OK
+> Loading creativity....... OK
+> Loading determination.... OK
 
-[INFO] Learning new technologies
-[INFO] Building projects
-[INFO] Making mistakes
-[INFO] Debugging life and code
+> Learning new technologies
+> Building projects
+> Making mistakes
+> Debugging and evolving
 
-[SYSTEM STATUS] ALWAYS LEARNING
+[SYSTEM STATUS: ALWAYS LEARNING]
 ```
 
 <div align="center">
 
-### `LEARNING BY BUILDING.`
+### `BUILDING MY OWN UNIVERSE.`
 
-<sub>Laura Lab // Development Lab · v0.1</sub>
+<sub>LAURA LAB // DEVELOPMENT LAB · v0.2</sub>
 
-**Ideas → Code → Errors → Learning → Evolution**
+<br/>
+
+![Footer](https://img.shields.io/badge/MADE_WITH-CURIOSITY-FF79C6?style=flat-square)
+![Evolution](https://img.shields.io/badge/EVOLUTION-ONGOING-65D8FF?style=flat-square)
 
 </div>
+
