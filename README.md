@@ -1,11 +1,9 @@
 
 <div align="center">
 
-<img src="reactor_jarvis.gif" width="380" alt="Laura Lab Reactor Core" />
+<img src="miller_space_banner.gif" width="100%" alt="Miller - Deep Space" />
 
-<br/>
-
-# LAURA LAB
+# `MILLER`
 
 ### `17 // IN PROGRESS...`
 
@@ -13,38 +11,40 @@
 
 *Convirtiendo ideas en tecnología, mientras aprendo, desarrollo y evoluciono.*
 
-![System](https://img.shields.io/badge/SYSTEM-ONLINE-FF79C6?style=for-the-badge&logoColor=white)
-![Focus](https://img.shields.io/badge/FOCUS-BUILDING-65D8FF?style=for-the-badge&logoColor=black)
+<br/>
+
+![System](https://img.shields.io/badge/SYSTEM-ONLINE-FF79C6?style=for-the-badge)
+![Focus](https://img.shields.io/badge/FOCUS-BUILDING-65D8FF?style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-FF79C6?style=for-the-badge)
 
 </div>
 
 ---
 
-## <span style="color:#FF79C6">01 // ABOUT ME</span>
+## `01 // ABOUT ME`
 
-Estudiante de Ingeniería de Sistemas, explorando el mundo del desarrollo de software, la programación, la automatización y la inteligencia artificial.
+Estudiante de Ingeniería de Sistemas, explorando el mundo del desarrollo de software, programación, automatización e inteligencia artificial.
 
 Me gusta aprender creando, experimentar con nuevas ideas y convertir problemas en soluciones tecnológicas.
 
-> **Learning by building.**
+> *Learning by building.*
 
 ---
 
-## <span style="color:#65D8FF">02 // TECH STACK</span>
+## `02 // TECH STACK`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FF79C6?style=for-the-badge&logo=python&logoColor=black)
-![Git](https://img.shields.io/badge/Git-65D8FF?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-111116?style=for-the-badge&logo=github&logoColor=FF79C6)
-![VS Code](https://img.shields.io/badge/VS_Code-FF79C6?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![Python](https://img.shields.io/badge/Python-65D8FF?style=for-the-badge&logo=python&logoColor=black)
+![Git](https://img.shields.io/badge/Git-FF79C6?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=65D8FF)
+![VS Code](https://img.shields.io/badge/VS_Code-65D8FF?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 
 </div>
 
 ---
 
-## <span style="color:#FF79C6">03 // MAIN PROJECT</span>
+## `03 // MAIN PROJECT`
 
 <div align="center">
 
@@ -52,7 +52,9 @@ Me gusta aprender creando, experimentar con nuevas ideas y convertir problemas e
 
 ### `JUST A RATHER VERY INTELLIGENT SYSTEM`
 
-![JARVIS](https://img.shields.io/badge/JARVIS-IN_DEVELOPMENT-FF79C6?style=for-the-badge)
+<img src="reactor_jarvis.gif" width="380" alt="JARVIS Reactor Core"/>
+
+![Status](https://img.shields.io/badge/PROJECT-IN_DEVELOPMENT-FF79C6?style=for-the-badge)
 
 </div>
 
@@ -60,23 +62,27 @@ Mi proyecto principal: construir mi propio asistente inteligente.
 
 JARVIS es un proyecto personal enfocado en explorar inteligencia artificial, automatización e interacción con el computador, desarrollando progresivamente un asistente capaz de integrar diferentes funcionalidades.
 
-**Current objectives:**
+### Current objectives
 
 - [x] Crear la base del proyecto
-- [x] Configurar el entorno de desarrollo
+- [x] Configurar entorno de desarrollo
 - [x] Integrar Python
 - [ ] Implementar funcionalidades inteligentes
 - [ ] Incorporar automatización
 - [ ] Explorar interacción por voz
 - [ ] Expandir sus capacidades
 
-> `JARVIS is not finished. Neither am I.`
+> *JARVIS is not finished. Neither am I.*
 
-![Project](https://img.shields.io/badge/PROJECT-IN_PROGRESS-65D8FF?style=for-the-badge)
+<div align="center">
+
+![JARVIS](https://img.shields.io/badge/PROJECT-JARVIS-65D8FF?style=for-the-badge&logo=github)
+
+</div>
 
 ---
 
-## <span style="color:#65D8FF">04 // OTHER PROJECTS</span>
+## `04 // OTHER PROJECTS`
 
 | PROJECT | DESCRIPTION | STATUS |
 |---|---|---|
@@ -87,56 +93,55 @@ JARVIS es un proyecto personal enfocado en explorar inteligencia artificial, aut
 
 ---
 
-## <span style="color:#FF79C6">05 // CURRENT MISSIONS</span>
+## `05 // CURRENT MISSIONS`
 
 - [x] Start my Systems Engineering journey
 - [x] Learn Python fundamentals
 - [x] Create my first projects
-- [ ] Improve programming logic
+- [x] Improve programming logic
 - [ ] Explore Artificial Intelligence
-- [ ] Develop automated solutions
+- [ ] Develop automation solutions
 - [ ] Build more complex projects
+- [ ] Keep exploring the unknown
 
 ---
 
-## <span style="color:#65D8FF">06 // GITHUB ACTIVITY</span>
+## `06 // GITHUB ACTIVITY`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laurapb&show_icons=true&title_color=FF79C6&icon_color=65D8FF&text_color=FFFFFF&bg_color=0D1117&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Laurapb&show_icons=true&hide_border=true&bg_color=080A10&title_color=FF79C6&icon_color=65D8FF&text_color=C9D1D9&ring_color=FF79C6" height="165"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laurapb&layout=compact&title_color=FF79C6&text_color=FFFFFF&bg_color=0D1117&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laurapb&layout=compact&hide_border=true&bg_color=080A10&title_color=65D8FF&text_color=C9D1D9" height="165"/>
 
 </div>
 
 ---
 
-## <span style="color:#FF79C6">07 // SYSTEM LOG</span>
+## `07 // SYSTEM LOG`
 
 ```text
-> Initializing Laura Lab...
+> Initializing Miller...
 > Loading curiosity........ OK
 > Loading creativity....... OK
-> Loading determination.... OK
+> Loading determination... OK
 
-> Learning new technologies
+> Exploring new technologies
 > Building projects
-> Making mistakes
 > Debugging and evolving
 
 [SYSTEM STATUS: ALWAYS LEARNING]
 ```
 
+---
+
 <div align="center">
 
-### `BUILDING MY OWN UNIVERSE.`
+### `EXPLORING THE UNKNOWN.`
 
-<sub>LAURA LAB // DEVELOPMENT LAB · v0.2</sub>
+<sub>MILLER // DEVELOPMENT HUB</sub>
 
-<br/>
-
-![Footer](https://img.shields.io/badge/MADE_WITH-CURIOSITY-FF79C6?style=flat-square)
-![Evolution](https://img.shields.io/badge/EVOLUTION-ONGOING-65D8FF?style=flat-square)
+![Always Learning](https://img.shields.io/badge/ALWAYS-EXPLORING-65D8FF?style=flat-square)
 
 </div>
 
